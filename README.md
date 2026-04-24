@@ -50,7 +50,7 @@ Warehoused raw CRM and ERP CSV exports into a structured SQL environment using M
 
 ---
 
-## 🔶 Analytics & BI
+## 🔶 Business Intelligence
 
 #### [BI Analysis — Product Performance & Customer Behavior](https://github.com/Elvi3n/Power-BI-Sales-Product-Performance-Dashboard)
 `Power BI` `DAX` · *May 2025*
@@ -102,9 +102,18 @@ Interactive Tableau dashboards analyzing 9,900+ order records across sales, prof
 
 ---
 
-## 🔹 Research & Non-profit
+## 🔹 Research
 
-#### [GLOCAL Foundation — Canada Youth Unemployment Analysis](https://github.com/Elvi3n/GLOCAL-Canada-Youth-Unemployment)
+#### [Sentiment Analysis - Mastercard Sponsorship Reception Among League of Legends Players]()
+`Python` `Tableau` · October 2025    
+
+Brand reception analysis of Mastercard the subreddit r/leagueoflegends using PRAW, Python Reddit API Wrapper. 
+
+•	Developed an interactive Tableau dashboard to visualize sentiment trends, visibility peaks during the World Championship, and topic modeling for stakeholders.
+•	Automated community feedback collection via Reddit API (PRAW), scraping and analyzing sentiment intensity from high-volume discussions in the r/leagueoflegends community.
+•	Identified key drivers of brand perception, revealing that while production value drives positive sentiment, ticketing and botting issues are the primary sources of friction for cardholders.
+
+#### [**Non-Profit Involvement**: GLOCAL Foundation of Canada — Canada Youth Unemployment Analysis](https://github.com/Elvi3n/GLOCAL-Canada-Youth-Unemployment)
 `Python` · *June 2025*
 
 A longitudinal labour-market analysis using ~50 years of Statistics Canada data (1978–2025) to quantify youth unemployment trends, duration, and gaps versus adult unemployment.
