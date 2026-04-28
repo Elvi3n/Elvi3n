@@ -104,7 +104,7 @@ Interactive Tableau dashboards analyzing 9,900+ order records across sales, prof
 
 ## 🔹 Research
 
-#### [Sentiment Analysis - Mastercard Sponsorship Reception Among League of Legends Players]()
+#### [Sentiment Analysis - Mastercard Sponsorship Reception Among League of Legends Players](https://github.com/Elvi3n/Mastercard-Brand-Analysis-in-r-leagueoflegends)
 `Python` `Tableau` · October 2025    
 
 Brand reception analysis of Mastercard the subreddit r/leagueoflegends using PRAW, Python Reddit API Wrapper. 
