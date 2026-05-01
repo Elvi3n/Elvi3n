@@ -8,7 +8,7 @@ I'm a **Data Analyst** with 3+ years of experience in BI and research across cor
 
 ## 🔷 Data Pipelines & Warehouses
 
-#### [Medallion Pipeline — DB1B Airline Origin and Destination Survey](https://github.com/Elvi3n/Fabric-Medallion-Pipeline-Airline-Origin-and-Destination-Survey-DB1B)
+#### [Medallion Analytic Pipeline — DB1B Airline Origin and Destination Survey](https://github.com/Elvi3n/Fabric-Medallion-Pipeline-Airline-Origin-and-Destination-Survey-DB1B)
 `Microsoft Fabric` `Azure` `PySpark` · *April 2026*
 
 An end-to-end automated data pipeline processing airline ticket samples (DB1B) using a modular Medallion Architecture (Bronze → Silver → Gold) to assess airline performance.
@@ -19,7 +19,7 @@ An end-to-end automated data pipeline processing airline ticket samples (DB1B) u
 
 ---
 
-#### [BI Analytics Pipeline — NYC Yellow Taxi](https://github.com/Elvi3n/Fabric-BI-Analytics-Pipeline-NYC-Yellow-Taxi)
+#### [BI Analytics Pipeline — TLC Trip Record Analysis (NYC Yellow Taxi)](https://github.com/Elvi3n/Fabric-BI-Analytics-Pipeline-NYC-Yellow-Taxi)
 `Microsoft Fabric` `Azure` `SQL` `Power BI` · *March 2026*
 
 A full data lifecycle solution in Microsoft Fabric, migrating data from a Lakehouse to a SQL Data Warehouse to power executive Power BI reports.
