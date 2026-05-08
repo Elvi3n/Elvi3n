@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Data Analyst** with 3+ years of experience in BI and research across corporate and non-profit environments, specializing in analytics pipelines, automation, and data engineering.
+I'm a **Data Analyst** with 3+ years of experience in BI and research across business and non-profit environments, specializing in analytics pipelines, automation, and data engineering.
 
 ---
 
