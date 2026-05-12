@@ -52,7 +52,7 @@ Warehoused raw CRM and ERP CSV exports into a structured SQL environment using M
 
 ## 🔶 Business Intelligence
 
-#### [BI Analysis — Product Performance & Customer Behavior](https://github.com/Elvi3n/Power-BI-Sales-Product-Performance-Dashboard)
+#### [Product Performance & Customer Behavior Analysis](https://github.com/Elvi3n/Power-BI-Sales-Product-Performance-Dashboard)
 `Power BI` `DAX` · *May 2025*
 
 Transformed three years of raw transactional data into a multi-page interactive dashboard using Power Query for ETL and a Snowflake schema relational data model.
@@ -63,7 +63,7 @@ Transformed three years of raw transactional data into a multi-page interactive 
 
 ---
 
-#### [BI Analysis — Sales & Customer Segmentation](https://github.com/Elvi3n/SQL-BI-Sales-and-Customer-Segmentation-Analysis)
+#### [Sales & Customer Segmentation Analysis — ](https://github.com/Elvi3n/SQL-BI-Sales-and-Customer-Segmentation-Analysis)
 `SQL` · June 2025
 
 SQL transformations to analyze time-based trends, seasonality, and year-over-year growth using window functions and aggregated gold layer tables.
@@ -73,7 +73,7 @@ SQL transformations to analyze time-based trends, seasonality, and year-over-yea
 
 ---
 
-#### [BI Demand Forecasting — Multi-Model Approach](https://github.com/Elvi3n/BI-Inventory-Demand-Forecasting-Analysis-Multi-Models)
+#### [Demand Forecasting — Multi-Model Approach](https://github.com/Elvi3n/BI-Inventory-Demand-Forecasting-Analysis-Multi-Models)
 `Excel` `DA Toolkit` `Solver` · December 2025
 
 A forecasting framework classifying products into stable, seasonal, trend-based, and hybrid demand patterns using statistical models to improve forecast accuracy.
@@ -83,7 +83,7 @@ A forecasting framework classifying products into stable, seasonal, trend-based,
 
 ---
 
-#### [BI Analysis — Product & Margin Efficiency](https://github.com/Elvi3n/Product-Performance-Margin-Efficiency-BI-Analysis/tree/main)
+#### [Product & Margin Efficiency Analysis](https://github.com/Elvi3n/Product-Performance-Margin-Efficiency-BI-Analysis/tree/main)
 `Excel` `Power Query` `Power Pivot` `DAX` · December 2025
 
 An Excel BI model integrating 269,000+ retail transaction records with product, customer, regional, and calendar dimensions into a star schema for product-level profitability analysis.
@@ -93,7 +93,7 @@ An Excel BI model integrating 269,000+ retail transaction records with product, 
 
 ---
 
-#### [BI Analysis — Retail Sales & Customer Behavior](https://github.com/Elvi3n/Retail-Sales-Customer-Insights-Dashboard)
+#### [Retail Sales & Customer Behavior Analysis](https://github.com/Elvi3n/Retail-Sales-Customer-Insights-Dashboard)
 `Tableau` · Novemeber 2025
 
 Interactive Tableau dashboards analyzing 9,900+ order records across sales, profit, and quantity KPIs with year-over-year comparisons and dynamic monthly/weekly trend views.
