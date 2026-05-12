@@ -50,7 +50,7 @@ Warehoused raw CRM and ERP CSV exports into a structured SQL environment using M
 
 ---
 
-## 🔶 Business Intelligence
+## 🔶 Data Analysis
 
 #### [Product Performance & Customer Behavior Analysis](https://github.com/Elvi3n/Power-BI-Sales-Product-Performance-Dashboard)
 `Power BI` `DAX` · *May 2025*
